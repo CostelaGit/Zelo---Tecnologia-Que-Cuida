@@ -1,0 +1,11 @@
+{
+  "title": "ZELO - Tecnologia que Cuida",
+  "description": "Ajuda pacientes e famílias a consultar fichas, profissionais e avisos das UBS em tempo real, evitando deslocamentos desnecessários e filas de madrugada.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
